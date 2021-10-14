@@ -1,0 +1,16 @@
+body{
+  font-family: "Times New Roman", Times, serif;
+}
+.avatar {
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  .ojs{
+    width: 100%;
+  }
+  .footer{
+    height: 200px;
+  }
+
